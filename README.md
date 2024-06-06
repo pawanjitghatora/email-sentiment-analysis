@@ -20,7 +20,7 @@ This project demonstrates how to analyze the sentiment of email texts using Open
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your_username/your_project.git](https://github.com/pawanjitghatora/email-sentiment-analysis.git)
+   git clone https://github.com/pawanjitghatora/email-sentiment-analysis.git
    ```
 
 2. Navigate to the project directory:
@@ -185,4 +185,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [your_email@example.com](mailto:your_email@example.com)
 
-Project Link: [https://github.com/your_username/your_project](https://github.com/your_username/your_project)
+Project Link: https://github.com/pawanjitghatora/email-sentiment-analysis.git
