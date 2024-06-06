@@ -25,7 +25,7 @@ This project demonstrates how to analyze the sentiment of email texts using Open
 
 2. Navigate to the project directory:
    ```sh
-   cd email-sentiment-analysis
+   cd \your-directory\email-sentiment-analysis
    ```
 
 3. Install the dependencies:
@@ -180,9 +180,3 @@ Contributions are what make the open source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [your_email@example.com](mailto:your_email@example.com)
-
-Project Link: https://github.com/pawanjitghatora/email-sentiment-analysis.git
